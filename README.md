@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am an Indie Backend developer with passion for research in Deep Learning <br> Reach me at [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)] tarun2k01@gmail.com and 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tarun2k01) 
+I am an Indie Backend developer with passion for research in Deep Learning <br> Reach me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tarun2k01) or email me tarun2k01@gmail.com
 
 
 
