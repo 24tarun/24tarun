@@ -2,7 +2,7 @@
 I am an Indie Backend developer with passion for research in Deep Learning
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tarun2k01) 
 
 # 💻 Tech Stack:
