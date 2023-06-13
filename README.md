@@ -1,8 +1,6 @@
 # 💫 About Me:
 I am an Indie Backend developer with passion for research in Deep Learning
-
-
-# 🌐 Socials:
+Reach me at [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](tarun2k01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tarun2k01) 
 
 # 💻 Tech Stack:
