@@ -1,6 +1,8 @@
 <h1>Hi 👋, I'm Tarun</h1>
 <h3>Developer | Researcher</h3>
 
+I am an Backend developer who likes to work on intruiging and innovative projects<br>currently working on : Computer Vision with Yolo<br>AWS certified Developer Associate DVA-C02
+
 - 📫 How to reach me [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tarun2k01) &  **tarun2k01@gmail.com**
 
 # 💻 Tech Stack:
