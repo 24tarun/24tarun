@@ -1,5 +1,5 @@
 <h2>Hi 👋, I'm Tarun</h2>
-<h3>AWS Developer Associate</h3>
+<h3>AWS|Devops</h3>
 
 I am an Backend developer who likes to work on intruiging and innovative projects<br>currently working on : Computer Vision with Yolo<br>AWS certified Developer Associate DVA-C02
 
